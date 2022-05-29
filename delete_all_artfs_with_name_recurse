@@ -1,0 +1,2 @@
+# Currently set for directories; use "-type f" for files.
+find . -type d -name "fastqs" -delete

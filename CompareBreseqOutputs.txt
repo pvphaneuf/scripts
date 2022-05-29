@@ -1,0 +1,3 @@
+gdtools FILTER -f "frequency<=0.05" -o W3110-10-5-2_S2_filtered.gd W3110-10-5-2_S2.gd
+
+gdtools COMPARE -r NC_007779_W3110_cfb.gbk W3110_start.gd W3110-10-5-1_S1_filtered.gd W3110-28-9-1_S4_filtered.gd W3110-38-8-1_S7_filtered.gd

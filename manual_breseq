@@ -1,0 +1,1 @@
+nohup nice breseq -p --polymorphism-frequency-cutoff 0.05 -r U00096.3.gb -o 2Xyl_S4 2Xyl_S4_L001_R1_001.fastq 2Xyl_S4_L001_R2_001.fastq&> reseq.log&; disown

@@ -1,0 +1,1 @@
+~/breseq/breseq-0.30.2-Linux-x86_64/bin/gdtools annotate -f GD -o annotated.gd -r bop27_1_4.gff3 output.gd

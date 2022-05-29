@@ -1,0 +1,1 @@
+sudo mount -t cifs -o username=sbrg-pphaneuf //proline.ucsd.edu/Users /media/proline

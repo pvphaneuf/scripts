@@ -1,0 +1,1 @@
+for file in *; do filename="${file%.good.fq}"; mv "$file" "${filename}_run1.good.fq"; done

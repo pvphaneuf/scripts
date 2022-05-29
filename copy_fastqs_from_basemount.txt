@@ -1,0 +1,1 @@
+find -L basespace/Projects/STALE/Samples -name '*.fastq.gz' | xargs -I{} cp "{}" /data/breseq/stl/fastqs

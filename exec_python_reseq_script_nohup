@@ -1,0 +1,1 @@
+nohup nice python AutoBreseq.py -p -r NC_000913_3.gb&> reseq.log&; disown

@@ -1,0 +1,1 @@
+nohup nice AutoBreseq.py -r reference > reseq.log&; disown

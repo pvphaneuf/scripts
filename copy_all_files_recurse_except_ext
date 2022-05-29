@@ -1,0 +1,1 @@
+sudo rsync -avP --exclude='*.fastq*' --exclude='*.gb*' --exclude='*.out*' --exclude='*.log*' --exclude='*.py*' --exclude='*/data*' --exclude='*/0*' /data/breseq/switching_substrate_ale /data/miseq_debug
